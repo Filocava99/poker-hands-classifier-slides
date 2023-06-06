@@ -1,6 +1,6 @@
-baseURL = "https://danysk.github.io/Template-Hugo-Reveal-Slides"
+baseURL = "https://filocava99.github.io/smartcity-traffic-iot-slides/"
 languageCode = "en-us"
-title = "A Hugo theme for creating Reveal.js presentations"
+title = "Slides for Smart-City project Traffic-IoT-Controller"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 publishDir = "build"
@@ -10,7 +10,7 @@ publishDir = "build"
 # uglyURLs = true
 
 [author]
-name = "Danilo Pianini"
+name = "Filippo Cavallari"
 
 # currently only the unsafe mode for goldmark is supported
 [markup.goldmark.renderer]
@@ -45,12 +45,12 @@ targetPath = "css/custom-theme.css"
 enableSourceMap = true
 
 [[params.reveal_hugo.mermaid]]
-# startOnLoad = false
+startOnLoad = false
 # theme = "default"
 # fontFamily = "Inconsolata"
-# useMaxWidth = false
+useMaxWidth = false
 
 # gitGraph options break the image generation
 # [params.reveal_hugo.mermaid.gitGraph]
-# mainBranchName = 'master'
-# rotateCommitLabel = true
+mainBranchName = 'master'
+rotateCommitLabel = true
