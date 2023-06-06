@@ -321,6 +321,17 @@ gitGraph
 
 ------
 
-# Nuova Slide
+# Obiettivi del progetto
 
-prova
+{{< image src="C:\Users\ingar\Desktop\Smart City\Intro.png" max-w="50">}}
+
+1. First ordered list item
+1. Another item
+   * Unordered sub-list.
+   * with two items
+     * another sublist
+       1. With a sub-enum
+       1. yay!
+1. Actual numbers don't matter, just that it's a number
+  1. Ordered sub-list
+1. And another item.
