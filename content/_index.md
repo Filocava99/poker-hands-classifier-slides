@@ -1,4 +1,4 @@
- 
+
 +++
 
 title = "Guide for writing markdown slides"
@@ -319,3 +319,8 @@ gitGraph
 
 {{% import path="shared-slides/devops/devops-intro.md" %}}
 
+------
+
+# Nuova Slide
+
+prova
