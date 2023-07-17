@@ -1,6 +1,6 @@
-baseURL = "https://filocava99.github.io/smartcity-traffic-iot-slides/"
+baseURL = "https://filocava99.github.io/poker-hands-classifier-slides/"
 languageCode = "en-us"
-title = "Slides for Smart-City project Traffic-IoT-Controller"
+title = "Slides for Artificial Vision project Poker Hands Classifier"
 disableKinds = ["sitemap", "RSS"]
 theme = "reveal-hugo"
 publishDir = "build"
