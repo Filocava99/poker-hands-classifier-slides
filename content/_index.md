@@ -46,13 +46,17 @@ YOLO is a popular object detection algorithm that can recognize and localize mul
 
 ---
 
-# Inline images
-
-![Alternative text](https://i.imgur.com/v4AtJry.png)
-
-
-
-![](https://i.imgur.com/j1fVZnB.jpg)
+# Dataset
+<table>
+    <tr>
+        <td>
+            <img src="https://i.imgur.com/j1fVZnB.jpg"/>
+        </td>
+        <td>
+            <img src="https://i.imgur.com/v4AtJry.png"/>
+        </td>
+    </tr>
+</table>
 
 ---
 
