@@ -1,5 +1,15 @@
-# Poker Hands Classifier
++++
 
+title = "Poker Hands Classifier"
+description = "Slides for the project Poker Hands Classifier"
+outputs = ["Reveal"]
+aliases = [
+    "/slides/"
+]
+
++++
+
+# Poker Hands Classifier
 ---
 
 # Introduction
