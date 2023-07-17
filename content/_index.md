@@ -10,6 +10,7 @@ aliases = [
 +++
 
 # Poker Hands Classifier
+
 ---
 
 # Introduction
@@ -42,3 +43,43 @@ YOLO is a popular object detection algorithm that can recognize and localize mul
 * better accuracy
 * faster inference speed
 * cheaper hardware requirements
+
+---
+
+# Inline images
+
+![Alternative text](https://i.imgur.com/v4AtJry.png)
+
+
+
+![](https://i.imgur.com/j1fVZnB.jpg)
+
+---
+
+# Confusion matrix
+
+![](https://i.imgur.com/AFpXWei.png)
+
+---
+
+# Results
+
+![Results](https://i.imgur.com/w3EBRal.png)
+
+---
+
+# Training batch example
+
+![](https://i.imgur.com/mxVRWjS.jpg)
+
+---
+
+# Testing batch example
+
+![](https://i.imgur.com/AKmmO8U.jpg)
+
+---
+
+# Showcase video
+
+<a href="https://youtube.com/shorts/gLaihFNVr9E"><img src="demo.gif"/></a>
