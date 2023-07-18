@@ -46,14 +46,38 @@ YOLO is a popular object detection algorithm that can recognize and localize mul
 
 ---
 
-# Dataset
+# Dataset 1/3
+
+* 20.000 immagini
+* 416 x 416 pixel
+* Etichette formato Yolo v5
+* Suddivisione dei set
+  * 70% training set
+  * 20% validation set
+  * 10% test set
+
+---
+
+# Dataset 2/3
+
+* Generazione del dataset:
+  * segmentazione
+    * conversione in scala di grigi (threshold ~rgb(0,0,0))
+    * apertura => chiusura
+  * ridimensionamento casuale
+  * applicazione di un background casuale ottenuto dal [dataset DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/)
+
+---
+
+# Dataset 3/3
+
 <table>
     <tr>
         <td>
-            <img src="https://i.imgur.com/j1fVZnB.jpg"/>
+            <image src="https://i.imgur.com/j1fVZnB.jpg" width=¨50¨ max-h="50"/>
         </td>
         <td>
-            <img src="https://i.imgur.com/v4AtJry.png"/>
+            <image src="https://i.imgur.com/v4AtJry.png" width=¨50¨ max-h="50"/>
         </td>
     </tr>
 </table>
