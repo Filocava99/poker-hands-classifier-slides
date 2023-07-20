@@ -62,8 +62,9 @@ YOLO is a popular object detection algorithm that can recognize and localize mul
 
 * Generazione del dataset:
   * segmentazione
-    * conversione in scala di grigi (threshold ~rgb(0,0,0))
+    * conversione in colori binari (bianco/nero) (threshold ~rgb(0,0,0))
     * apertura => chiusura
+    * applicazione della maschera sull'immagine originale per ritagliare i pixel della carta
   * ridimensionamento casuale
   * applicazione di un background casuale ottenuto dal [dataset DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/)
 
