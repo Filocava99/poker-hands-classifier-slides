@@ -65,7 +65,7 @@ YOLO is a popular object detection algorithm that can recognize and localize mul
     * conversione in colori binari (bianco/nero) (threshold ~rgb(0,0,0))
     * apertura => chiusura
     * applicazione della maschera sull'immagine originale per ritagliare i pixel della carta
-  * ridimensionamento casuale
+  * ridimensionamento e rotazione casuale
   * applicazione di un background casuale ottenuto dal [dataset DTD](https://www.robots.ox.ac.uk/~vgg/data/dtd/)
 
 ---
@@ -99,10 +99,11 @@ YOLO is a popular object detection algorithm that can recognize and localize mul
 
 # Possible future improvements
 
-* Data augmentantion
+* Data augmentation
   * distortion
   * enlargement
   * noise
+  * rotation
 * in-game suggestions
 
 ---
