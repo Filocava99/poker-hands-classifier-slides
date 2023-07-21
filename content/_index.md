@@ -97,6 +97,16 @@ YOLO is a popular object detection algorithm that can recognize and localize mul
 
 ---
 
+# Possible future improvements
+
+* Data augmentantion
+  * distortion
+  * enlargement
+  * noise
+* in-game suggestions
+
+---
+
 # Training batch example
 
 ![](https://i.imgur.com/mxVRWjS.jpg)
